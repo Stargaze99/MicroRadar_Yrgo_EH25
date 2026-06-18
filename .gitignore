@@ -1,0 +1,7 @@
+tmp/
+.vscode/
+__pycache__/
+*.pyc
+*.mpy
+.DS_Store
+MicroRadar_rapport_Google_Docs.docx
